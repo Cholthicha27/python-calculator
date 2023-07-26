@@ -3,6 +3,12 @@
      resurlt = num1 - num2       
      print("the resurlt of subtract is: ", result)
 
+
+def add(num1, num2):
+    result = num1 + num2
+    print("The result is: ", result)
+
+
 def main():
     print("Enter the operation you want to perform: ")
 
