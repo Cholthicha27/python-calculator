@@ -22,7 +22,7 @@ def divide(num1, num2) :
 
 def modulo (num1, num2 ):
     resurlt = num1 % num2 
-    print("the result is: ", resurlt)
+    print("the result is: ", result)
 
 
 def main():
