@@ -1,5 +1,7 @@
 # Add your functions here!
-
+ def subtract(num1, num2):
+     resurlt = num1 - num2       
+     print("the resurlt of subtract is: ", result)
 
 def main():
     print("Enter the operation you want to perform: ")
