@@ -7,7 +7,7 @@
  
  def subtract(num1, num2):
      resurlt = num1 - num2       
-     print("the resurlt of subtract is: ", result)
+     print("the result of subtract is: ", result)
 
 
 def multiply(num1, num2) :
@@ -22,7 +22,7 @@ def divide(num1, num2) :
 
 def modulo (num1, num2 ):
     resurlt = num1 % num2 
-    print("the resurlt is: ", resurlt)
+    print("the result is: ", resurlt)
 
 
 def main():
