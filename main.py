@@ -8,6 +8,9 @@ def add(num1, num2):
     result = num1 + num2
     print("The result is: ", result)
 
+def modulo (num1, num2 ):
+    resurlt = num1 % num2 
+    print("the resurlt is: ", resurlt)
 
 def main():
     print("Enter the operation you want to perform: ")
